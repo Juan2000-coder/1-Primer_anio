@@ -1,0 +1,12 @@
+COSAS PARA DEMOSTRAR LUEGO:
+-Teorema fundamental de las transformaciones lineales
+también conocido como teorema de existencia y unicidad de las
+transformaciontes lineales.
+-Dimensión del espacio suma igual a la suma de las dimensiones de los
+espacios menos la dimension de la intersección de los espacios;
+-La multiplicidad geometríca de un autovalor de una matriz
+es mayor o igual a la multiplicidad algebraíca de su 
+espacio propio o caracteristico o eigenespacio
+
+
+

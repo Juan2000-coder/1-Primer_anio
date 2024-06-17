@@ -1,0 +1,3 @@
+-error de la cantidad de movimiento cuando una de las 
+velocidades es cero
+-redondeo a partir de qué número

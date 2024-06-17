@@ -1,0 +1,8 @@
+ANOTACIONES:
+-un choque es una interacción muy intensa y de corta duración entre cuerpos o partículas
+-Es imprescindible verficar que las condiciones en la definición se cumplan ya que esto es lo que determina que se
+pueda aplicar el princicio de conservación del momento lineal al análisis del choque. Dado que la interacción es muy intensa,
+las fuerzas externas son despreciables en comparación con las fuerzas internas del choque (las fuerzas de interacción entre
+os cuerpos o partículas)
+-En todo choque se conserva la cantidad de movimiento lineal ya que as fuerzas externas son despreciables
+-Las energías potenciasles gravitatorias se miden respecto del centro de masas

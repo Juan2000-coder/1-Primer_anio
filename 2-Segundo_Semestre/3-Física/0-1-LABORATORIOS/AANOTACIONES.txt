@@ -1,0 +1,8 @@
+la curva de deformación es para materiales metálicos dúctiles
+En un péndulo simple la masa del péndulo es puntual
+esto quiere decir que la masa de la varilla o cuerda es despreciable en comparación con la masa del péndulo
+de modo que puede considerarse concentrada toda en un solo punto y además si la longitud de la cuerda
+es muy grande en comparación con las dimensiones del péndulo también la masa es puntual quno?
+
+que se conserve la cantidad de movimiento es útil porque me permite conocer el estado de movimiento de los cuerpos antes y después del choque
+evidentemente las variaciones de altura al considerar la energía potencil se miden respecto a los centros de masas (son sistemas de partículas los cuerpos)

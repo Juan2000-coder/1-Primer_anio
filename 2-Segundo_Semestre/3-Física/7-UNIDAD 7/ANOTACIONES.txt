@@ -1,0 +1,12 @@
+En un MAS la fuerza de restitución es proporcional al desplazamiento
+En un péndulo simple se hacen las siguientes simplificaciones:
+-El cuerpo que se mueve es particular y masivo, la varilla no tiene masa
+-No se considera el momento de inercia por lo tanto
+-El período de movimiento es independiente de la masa de la particula
+En un péndulo físico sí se tienen en cuenta:
+-La masa del cuerpo
+-El momento de inercia del objeto
+-La masa de la varilla
+-El período sí depende de la masa de la varilla y del objeto
+AMBOS SON MAS si se considera que los desplazamientos angulares son pequeños
+es el desplazamiento pequeño lo que determina que sea o no péndulo físico

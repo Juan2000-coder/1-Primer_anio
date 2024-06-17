@@ -1,0 +1,6 @@
+una onda es una perturbación que transporta energía y cantidad de movimiento y no transporta masa
+La velocidad de la onda es unna función del medio
+no se suman las velocidades
+frecuencia, amplitud, velocidad de propagación, intensidad
+variación de la frecuencia debido a la velocidad relativa del observador y la fuente
+timbre: ecualizacion de un conjunto de frecuencias

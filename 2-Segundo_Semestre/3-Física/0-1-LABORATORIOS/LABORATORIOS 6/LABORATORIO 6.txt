@@ -1,0 +1,44 @@
+para calcular la densidad del líquido por el méto do de picnómetro hay que restar la masa del vaso
+masa del vaso: 231 g
+la apreciación de la balanza es de 1g
+masa del vaso con agua: 344 g
+luego la masa del agua es igual: 113 g
+luego son 113 cm3 (agua)
+
+nota: Los volumnes de todos los líquidos son los mismos
+
+peso del vaso con aceite: 332 g
+peso del aceite: 101 g
+
+peso del vaso con alcohol: 324 g
+masa de alcohol: 93 g
+
+densidad del aceite: 0.89 g/cm3
+densidad del alcohol: 0.82 g/cm3
+
+segundo método:
+haceite: 11.0 cm
+hagua: 10.2 cm
+dac: 0.93
+
+halcohol: 6.5 cm 
+hw: 5.1 cm
+dal: 0.78
+
+d solidos
+masa tornillo: 19g
+vo: 17.5 ml
+vf: 20ml
+d: 7.6g/ml=7.6g/cm3
+
+
+masa del vaso con el agua: 1028 g
+feurza luego: 1062 g
+masa del tornillo: 234 g
+d:6.88 g/cm3
+
+
+
+
+
+

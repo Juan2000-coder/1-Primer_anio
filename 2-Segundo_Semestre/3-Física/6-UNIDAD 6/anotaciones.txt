@@ -1,0 +1,3 @@
+centro de gravedad es el punto del cuerpo donde esta aplicado su peso (luego definir de una forma correcta)
+centro de masa es meramente geométrico
+el centro de masa de la granada sigue la misma trayectoria porque la fuerza de la explosión es una fuerza interna
